@@ -30,7 +30,9 @@ python TXF-DDOS.py
 ```
 #### Screenshots:
 
-<p align="center"><img src="">
+<p align="center"><img src="received_658037835695824.webp">
+
+
 
 
 ## 𝐏𝐋𝐄𝐀𝐒𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐓𝐎𝐎𝐋 𝐈𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐄𝐒𝐏𝐎𝐍𝐒𝐈𝐁𝐈𝐋𝐈𝐓𝐘
